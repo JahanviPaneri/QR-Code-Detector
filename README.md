@@ -1,3 +1,10 @@
+3 folders : 
+--backend
+--frontend
+--model
+
+
+
 # Photo Detector - Real or Fake
 
 A web application that detects whether uploaded photos are real or fake using AI/ML techniques.
